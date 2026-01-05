@@ -1,0 +1,3 @@
+if (!localStorage.getItem("users")) {
+  localStorage.setItem("users", JSON.stringify([]));
+}
