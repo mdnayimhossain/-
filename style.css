@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f6fc;
+}
+
+.auth-box {
+  width: 340px;
+  margin: 60px auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+input, select, button {
+  width: 100%;
+  padding: 8px;
+  margin: 8px 0;
+}
+
+button {
+  background: #003366;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
